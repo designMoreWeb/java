@@ -18,5 +18,7 @@ public class Variables_Literals_Constants{
 
         name = "Dave";
         surname = "John";
+
+        System.out.println(name+" "+surname);
     }
 }
