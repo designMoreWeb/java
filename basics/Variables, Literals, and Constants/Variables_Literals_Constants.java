@@ -12,5 +12,11 @@ public class Variables_Literals_Constants{
         average= (firstNumber+secondNumber) / 2.0;
 
         System.out.println("Average:"+ average);
+
+        String name;
+        String surname;
+
+        name = "Dave";
+        surname = "John";
     }
 }
