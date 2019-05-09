@@ -1,6 +1,9 @@
 
 public class Variables_Literals_Constants{
     public static void main(String[] args) {
+        
+        //Variables
+        
         int firstNumber;
         int secondNumber;
 
@@ -13,6 +16,8 @@ public class Variables_Literals_Constants{
 
         System.out.println("Average:"+ average);
 
+        //Literals 
+
         String name;
         String surname;
 
@@ -20,5 +25,14 @@ public class Variables_Literals_Constants{
         surname = "John";
 
         System.out.println(name+" "+surname);
+
+        //Boolean
+        boolean value;
+        value =false;
+        System.out.println(value);
+
+        //Characters
+
+
     }
 }
