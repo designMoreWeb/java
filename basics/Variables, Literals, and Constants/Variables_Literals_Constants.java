@@ -32,7 +32,9 @@ public class Variables_Literals_Constants{
         System.out.println(value);
 
         //Characters
-
+        char letter;
+        letter = 'j';
+        System.out.println(letter);
 
     }
 }
