@@ -1,3 +1,4 @@
+
 public class Variables_Literals_Constants{
     public static void main(String[] args) {
         int firstNumber;
@@ -10,6 +11,6 @@ public class Variables_Literals_Constants{
 
         average= (firstNumber+secondNumber) / 2;
 
-        System.out.println(average);
+        System.out.println("Average:"+ average);
     }
 }
