@@ -9,7 +9,7 @@ public class Variables_Literals_Constants{
 
         double average;
 
-        average= (firstNumber+secondNumber) / 2;
+        average= (firstNumber+secondNumber) / 2.0;
 
         System.out.println("Average:"+ average);
     }
